@@ -4,5 +4,9 @@
 3.	Сервис перевода денег https://github.com/VeraLisitsa/TransferMoney.git 
 4.	Облачное хранилище https://github.com/VeraLisitsa/cloudapi.git
 
+Moё обучение:
+1. Java-разработчик (Нетология) https://github.com/VeraLisitsa/certificates.git
+   
+
 
    
