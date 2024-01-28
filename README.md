@@ -6,6 +6,8 @@
 
 Moё обучение:
 1. Java-разработчик (Нетология) https://github.com/VeraLisitsa/certificates.git
+2. Введение в Linux (Stepik) https://github.com/VeraLisitsa/certificates.git
+3. Интерактивный тренажер по SQL (Stepik) https://github.com/VeraLisitsa/certificates.git   
    
 
 
